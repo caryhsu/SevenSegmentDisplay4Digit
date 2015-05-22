@@ -2,7 +2,7 @@
 Arduino 四位數七段顯示器 Library
 
 #安裝方式#
-1. Download ZIP
+1. Download ZIP，更名為 SevenSegmentDisplay4Digit.zip
 2. 解壓縮，並複製到 Arduino\Library\中，目錄結構:
   * [Arduino]
     * [Library]
