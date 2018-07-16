@@ -6,15 +6,15 @@
 # Datatypes (KEYWORD1)
 #######################################
 
-SevenSegmentDisplay4Digit    KEYWORD1
+SevenSegmentDisplay4Digit	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
 
-refresh    KEYWORD2
-setNumber    KEYWORD2
-setPointAt    KEYWORD2
+refresh	KEYWORD2
+setNumber	KEYWORD2
+setPointAt	KEYWORD2
 
 #######################################
 # Instances (KEYWORD2)
